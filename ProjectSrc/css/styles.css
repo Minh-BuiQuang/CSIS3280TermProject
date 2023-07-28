@@ -1,9 +1,9 @@
 html {
-  background-color: snow;
+  background-color: aquamarine;
 }
 body {
-  background-color: lightblue;
-  border: 1px solid black;
+  background-color: azure;
+  border: 1px solid darkblue;
   display: table;
   width: 80%;
   margin: auto;
@@ -80,4 +80,11 @@ input[type="submit"] {
   background-color: aliceblue;
   color: rgb(54, 54, 54);
   width: 99%;
+}
+.form-signin {
+  margin: 100px;
+}
+
+.form-signup {
+  margin: 100px;
 }

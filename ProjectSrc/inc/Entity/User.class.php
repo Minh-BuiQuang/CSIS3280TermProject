@@ -6,6 +6,7 @@ class User{
     private $username ="";
     private $full_name = "";
     private $password = "";
+    private $email = "";
 
     // getter
     function getId() : int{
@@ -20,8 +21,24 @@ class User{
     function getPassword(): string{
         return $this->password;
     }
+    function getEmail(): string{
+        return $this->email;
+    }
 
     // setter
+
+    function setUsername(string $username){
+        $this->username = $username;
+    }
+    function setPassword(string $password){
+        $this->password = $password;
+    }
+    function setFullName(string $full_name){
+        $this->full_name = $full_name;
+    }
+    function setEmail(string $email){
+        $this->email = $email;
+    }
 
     function verifyPassword(string $passwordToVerify){
         return password_verify($passwordToVerify, $this->getPassword());

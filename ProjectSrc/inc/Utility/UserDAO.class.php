@@ -20,5 +20,15 @@ class UserDAO   {
         self::$db->execute();
         return self::$db->getResultSet();
     }
+    static function createUser(User $user){
+        $insert = "INSERT INTO users (full_name, username, email, password) VALUES (:full_name, :username, :email, :password);";
+        self::$db->query($insert);
+        self::$db->bind(":full_name", $user->getFullName());
+        self::$db->bind(":username", $user->getUsername());
+        self::$db->bind(":password", $user->getPassword());
+        self::$db->bind(":email", $user->getEmail());
+        self::$db->execute();
+        return self::$db->lastInsertedId();
+    }
 }
 ?>

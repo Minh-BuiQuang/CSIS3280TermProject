@@ -14,6 +14,7 @@ if(LoginManager::verifyLogin()){
     UserDAO::init();
     $user = UserDAO::getUser($_SESSION['loggedin']);
     Page::header();
+    Page::showSearchBar();
     Page::showUserDetails($user);
     Page::footer();
 } else {
