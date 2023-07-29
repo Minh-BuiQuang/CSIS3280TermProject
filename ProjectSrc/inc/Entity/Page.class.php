@@ -29,26 +29,36 @@ class Page  {
     <?php 
     }
 
-    static function showUserDetails(User $u) { 
+    static function showTopBar(User $u) { 
     ?>
-    <FORM ACTION="" METHOD="POST">
-        <div class="form-group row">
-            <div class="col-md-6">
-                Username: <?php echo $u->getUserName(); ?>
-            </div>
-            <div class="col-md-6">
-                Full Name: <?php echo $u->getFullName(); ?>
-            </div>
-            <div class="col-md-6">
-                Email: <?php echo $u->getEmail(); ?>
+    <div class="container">
+        <div class="row">
+            <form method="post" class="container col-md-6">
+                <div class="input-group">
+                    <input type="text" class="form-control" name="keyword" placeholder="Search your recipe. Ex: salad, pasta, meat ball,...">
+                    <span class="input-group-btn">
+                        <input type="submit" name="submit" value="Search">
+                    </span>
+                </div>
+            </form>   
+            <FORM class="col-md-4" ACTION="" METHOD="POST">
+                <div class="form-group row">
+                    <div class="row">
+                    <a class="btn btn-primary" href="logout.php" role="button">Sign Out</a>
+                    </div>
+                </div>
+                <div class="row">
+                    Username: <?php echo $u->getUserName(); ?>
+                </div>
+                <div class="row">
+                    Full Name: <?php echo $u->getFullName(); ?>
+                </div>
+                <div class="row">
+                    Email: <?php echo $u->getEmail(); ?>
+                </div>
             </div>
         </div>
-        <div class="form-group row">
-            <div class="col-md-6">
-            <a class="btn btn-primary" href="logout.php" role="button">Logout</a>
-            </div>
-        </div>
-        </div>
+    </div>
     <?php
     }
 
@@ -128,20 +138,38 @@ class Page  {
         <?php
     }
 
-    static function showSearchBar() {
-        ?>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="input-group">
-                        <input type="text" class="form-control" name="keyword" placeholder="Search your recipe. Ex: salad, pasta, meat ball,...">
-                        <span class="input-group-btn">
-                            <button class="btn btn-default" type="button">Go!</button>
-                        </span>
+    static function showSearchResults($recipes) {
+        // var_dump($recipes);
+        echo "<div class=\"container \">";
+        foreach($recipes as $recipe){
+            ?>
+                <div class="container p-4 m-4 bg-info rounded">
+                    <div class="row pb-4">
+                        <div class="col-md-8">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h3 class="card-title"><?=$recipe->getLabel()?></h3>
+                                    <?php
+                                    //formate calories to 2 decimal places
+                                    $calories = number_format($recipe->getCalories(), 2);
+                                    ?>
+                                    <p class="card-text">Total Calories: <?=$calories?></p>
+                                    <p class="card-text">Ingredients:</p>
+                                    <?php
+                                        foreach($recipe->getIngredientLines() as $ingredient){
+                                            //display ingredients text with reduced line spacing
+                                            echo "<p class='card-text' style='line-height: 1;'>• $ingredient</p>";
+                                        }
+                                    ?>
+                                </div>
+                            </div>
+                        </div>
+                    <div class="col-md-4">
+                        <img src="<?=$recipe->getImage()?>" class="card-img-top img-fluid" alt="Recipe Image" style="max-width: 300px;">
                     </div>
                 </div>
-            </div>
-        </div>            
-        <?php
+            <?php
+        echo "</div>";
+        }
     }
 }
