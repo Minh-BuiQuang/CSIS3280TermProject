@@ -11,10 +11,10 @@ create table users (
 ) Engine=InnoDB;
 
 create table recipe( 
-	uri VARCHAR(250) PRIMARY KEY,
+	uri VARCHAR(500) PRIMARY KEY,
 	label VARCHAR(250),
-	image VARCHAR(5000),
-	ingredient_lines TEXT,
+	image TEXT,
+	url VARCHAR(500),
 	calories DOUBLE
 ) Engine=InnoDB;
 create table grocery(
@@ -22,4 +22,4 @@ create table grocery(
 	quantity DOUBLE,
 	measure VARCHAR(50),
 	food VARCHAR(100)
-)
+) Engine=InnoDB;

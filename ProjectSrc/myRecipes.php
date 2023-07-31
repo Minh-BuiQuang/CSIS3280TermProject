@@ -9,27 +9,13 @@ require_once("inc/Utility/UserDAO.class.php");
 require_once("inc/Utility/RecipeDAO.class.php");
 require_once("inc/Utility/LoginManager.class.php");
 
-session_start();
-$searchResults = array();
-if(isset($_POST['keyword'])){
-    //Handle the search
-    $searchResults = APIHelper::getRecipes($_POST['keyword']);
-}
-if(isset($_POST['favourite'])) {
-    //Handle add to favourite
-    $recipe = new Recipe();
-    $recipe->setUri($_POST['uri']);
-    $recipe->setLabel($_POST['label']);
-    $recipe->setImage($_POST['image']);
-    $recipe->setUrl($_POST['url']);
-    $recipe->setCalories($_POST['calories']);
-    RecipeDAO::init();
-    RecipeDAO::insert($recipe);
-}
 if(isset($_POST['unfavourite'])){
     //Handle remove from favourite
     RecipeDAO::init();
     RecipeDAO::remove($_POST['uri']);
+}
+if(isset($_POST['addToGrocery'])){
+    //Handle add to grocery
 }
 
 // verify the login
@@ -38,12 +24,12 @@ if(LoginManager::verifyLogin()){
     UserDAO::init();
     $user = UserDAO::getUser($_SESSION['loggedin']);
     RecipeDAO::init();
-    $recipesFromDb = RecipeDAO::getRecipes();
+    $recipes = RecipeDAO::getRecipes();
+    $fullRecipes = APIHelper::getRecipesByUris($recipes);
     Page::header();
-    Page::showNavBar();
-    Page::showTopBar($user);
-    if(!empty($searchResults)){
-        Page::showRecipes($searchResults, $recipesFromDb);
+    Page::showNavBar();    
+    if(!empty($fullRecipes)) {
+        Page::showRecipes($fullRecipes, $fullRecipes);
     }
     Page::footer();
 } else {

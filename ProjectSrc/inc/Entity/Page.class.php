@@ -29,15 +29,31 @@ class Page  {
     <?php 
     }
 
+    static function showNavBar(){
+        ?>
+        <div class="container row p-1">
+            <div class="col">
+                <a class="btn btn-secondary btn-block" href="index.php" role="button">Home</a>
+            </div>
+            <div class="col">
+                <a class="btn btn-secondary btn-block" href="myRecipes.php" role="button">My Recipes</a>
+            </div>
+            <div class="col">
+                <a class="btn btn-secondary btn-block" href="myGroceries.php" role="button">My Groceries</a>
+            </div>
+        </div>
+        <?php
+    }
+
     static function showTopBar(User $u) { 
     ?>
     <div class="container">
         <div class="row">
             <form method="post" class="container col-md-6">
-                <div class="input-group">
+                <div class="input-group row">
                     <input type="text" class="form-control" name="keyword" placeholder="Search your recipe. Ex: salad, pasta, meat ball,...">
                     <span class="input-group-btn">
-                        <input type="submit" name="submit" value="Search">
+                        <input type="submit" name="search" value="Search">
                     </span>
                 </div>
             </form>   
@@ -137,9 +153,8 @@ class Page  {
           </form>
         <?php
     }
-
-    static function showSearchResults($recipes) {
-        // var_dump($recipes);
+    //Takes in a list of recipes to be displayed and a list of recipes from database for validating if a recipe has been added to favourited by the user prior.
+    static function showRecipes($recipes, $recipesFromDb) {
         echo "<div class=\"container \">";
         foreach($recipes as $recipe){
             ?>
@@ -150,14 +165,12 @@ class Page  {
                                 <div class="card-body">
                                     <h3 class="card-title"><?=$recipe->getLabel()?></h3>
                                     <?php
-                                    //formate calories to 2 decimal places
                                     $calories = number_format($recipe->getCalories(), 2);
                                     ?>
                                     <p class="card-text">Total Calories: <?=$calories?></p>
                                     <p class="card-text">Ingredients:</p>
                                     <?php
                                         foreach($recipe->getIngredientLines() as $ingredient){
-                                            //display ingredients text with reduced line spacing
                                             echo "<p class='card-text' style='line-height: 1;'>• $ingredient</p>";
                                         }
                                     ?>
@@ -165,7 +178,43 @@ class Page  {
                             </div>
                         </div>
                     <div class="col-md-4">
-                        <img src="<?=$recipe->getImage()?>" class="card-img-top img-fluid" alt="Recipe Image" style="max-width: 300px;">
+                        <img src="<?=$recipe->getImage()?>" class="card-img-top img-fluid" alt="Recipe Image" >
+                        <div class="row p-2">
+                            <a class="btn btn-primary btn-block" href="<?=$recipe->getUrl()?>" target="_blank" role="button">Go to cooking instruction</a>
+                        </div>
+                        <div class="row p-2">
+                            <?php
+                            $isFavourite = false;
+                            foreach($recipesFromDb as $recipeFromDb){
+                                if($recipeFromDb->getUri() == $recipe->getUri()){
+                                    $isFavourite = true;
+                                    break;
+                                }
+                            }
+                            //Render Add to favourite button if the recipe is not in the database
+                            if($isFavourite) {
+                                echo '<FORM class="btn-block" ACTION="" METHOD="POST">';
+                                echo '<input type="submit" name="unfavourite" class="btn btn-secondary btn-block" value="Remove from favourite">';
+                                echo '<input type="hidden" name="uri" value="'.$recipe->getUri().'">';
+                                echo '</FORM>';
+                            } else {
+                                echo '<FORM class="btn-block" ACTION="" METHOD="POST">';
+                                echo '<input type="submit" name="favourite" class="btn btn-primary btn-block" value="Add to favourite">';
+                                echo '<input type="hidden" name="uri" value="'.$recipe->getUri().'">';
+                                echo '<input type="hidden" name="label" value="'.$recipe->getLabel().'">';
+                                echo '<input type="hidden" name="image" value="'.$recipe->getImage().'">';
+                                echo '<input type="hidden" name="url" value="'.$recipe->getUrl().'">';
+                                echo '<input type="hidden" name="calories" value="<'.$recipe->getCalories().'">';
+                                echo '<input type="hidden" name="keyword" value="'.$_POST['keyword'].'">';                            
+                                echo '</FORM>';
+                            }
+                            echo '<FORM class="btn-block" ACTION="" METHOD="POST">';
+                            echo '<input type="submit" name="addToGrocery" class="btn btn-secondary btn-block" value="Add to grocery list">';
+                            echo '<input type="hidden" name="uri" value="'.$recipe->getUri().'">';
+                            echo '</FORM>';
+                            ?>
+                            
+                        </div>
                     </div>
                 </div>
             <?php
