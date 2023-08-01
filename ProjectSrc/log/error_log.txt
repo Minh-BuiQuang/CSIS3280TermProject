@@ -1,0 +1,226 @@
+[31-Jul-2023 05:33:49 Europe/Berlin] PHP Warning:  Array to string conversion in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 16
+[31-Jul-2023 05:33:49 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:33:49 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Warning:  Array to string conversion in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Warning:  Array to string conversion in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Warning:  Array to string conversion in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Warning:  Array to string conversion in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Warning:  Array to string conversion in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Warning:  Array to string conversion in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Warning:  Array to string conversion in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Warning:  Array to string conversion in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Warning:  Array to string conversion in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Warning:  Array to string conversion in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Warning:  Array to string conversion in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:11 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:34:51 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Warning:  Attempt to read property "food_id" on array in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Warning:  Attempt to read property "food_id" on array in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Warning:  Attempt to read property "food_id" on array in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Warning:  Attempt to read property "food_id" on array in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Warning:  Attempt to read property "food_id" on array in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Warning:  Attempt to read property "food_id" on array in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Warning:  Attempt to read property "food_id" on array in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Warning:  Attempt to read property "food_id" on array in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Warning:  Attempt to read property "food_id" on array in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Warning:  Attempt to read property "food_id" on array in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Warning:  Attempt to read property "food_id" on array in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 44
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP Stack trace:
+[31-Jul-2023 05:35:27 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:0
+[31-Jul-2023 05:39:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Grocery" not found in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php:46
+Stack trace:
+#0 {main}
+  thrown in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php on line 46
+[31-Jul-2023 05:42:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot access private property Grocery::$quantity in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\GroceryDAO.class.php:26
+Stack trace:
+#0 D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\index.php(53): GroceryDAO::addOrUpdateGrocery(Object(Grocery))
+#1 {main}
+  thrown in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\GroceryDAO.class.php on line 26
+[01-Aug-2023 05:24:31 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php on line 6
+[01-Aug-2023 05:24:31 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:24:31 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:0
+[01-Aug-2023 05:24:31 Europe/Berlin] PHP   2. LoginManager::verifyLogin() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:25
+[01-Aug-2023 05:24:31 Europe/Berlin] PHP   3. session_start() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php:6
+[01-Aug-2023 05:24:31 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php on line 14
+[01-Aug-2023 05:24:31 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:24:31 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:0
+[01-Aug-2023 05:24:31 Europe/Berlin] PHP   2. LoginManager::verifyLogin() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:25
+[01-Aug-2023 05:24:31 Europe/Berlin] PHP   3. session_destroy() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php:14
+[01-Aug-2023 05:24:31 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:22) in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php on line 34
+[01-Aug-2023 05:24:31 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:24:31 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:0
+[01-Aug-2023 05:24:31 Europe/Berlin] PHP   2. header($header = 'Location: login.php') D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:34
+[01-Aug-2023 05:43:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getFoodId() on string in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\GroceryDAO.class.php:50
+Stack trace:
+#0 D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php(17): GroceryDAO::removeGrocery('food_bmyxrshbfa...')
+#1 {main}
+  thrown in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\GroceryDAO.class.php on line 50
+[01-Aug-2023 05:43:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getFoodId() on string in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\GroceryDAO.class.php:50
+Stack trace:
+#0 D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php(17): GroceryDAO::removeGrocery('food_bmyxrshbfa...')
+#1 {main}
+  thrown in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\GroceryDAO.class.php on line 50
+[01-Aug-2023 05:45:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getFoodId() on string in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\GroceryDAO.class.php:51
+Stack trace:
+#0 D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php(17): GroceryDAO::removeGrocery('food_b1d1icuad3...')
+#1 {main}
+  thrown in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\GroceryDAO.class.php on line 51
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP Warning:  Undefined variable $grocery in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\GroceryDAO.class.php on line 48
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:0
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP   2. GroceryDAO::removeGrocery($foodId = 'food_avtcmx6bgjv1jvay6s6stan8dnyp') D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:17
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php on line 6
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:0
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP   2. LoginManager::verifyLogin() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:24
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP   3. session_start() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php:6
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php on line 14
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:0
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP   2. LoginManager::verifyLogin() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:24
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP   3. session_destroy() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php:14
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\GroceryDAO.class.php:48) in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php on line 33
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:0
+[01-Aug-2023 05:45:58 Europe/Berlin] PHP   2. header($header = 'Location: login.php') D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:33
+[01-Aug-2023 05:46:14 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php on line 6
+[01-Aug-2023 05:46:14 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:46:14 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:0
+[01-Aug-2023 05:46:14 Europe/Berlin] PHP   2. LoginManager::verifyLogin() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:24
+[01-Aug-2023 05:46:14 Europe/Berlin] PHP   3. session_start() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php:6
+[01-Aug-2023 05:46:14 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php on line 14
+[01-Aug-2023 05:46:14 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:46:14 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:0
+[01-Aug-2023 05:46:14 Europe/Berlin] PHP   2. LoginManager::verifyLogin() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:24
+[01-Aug-2023 05:46:14 Europe/Berlin] PHP   3. session_destroy() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php:14
+[01-Aug-2023 05:46:14 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\GroceryDAO.class.php:48) in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php on line 33
+[01-Aug-2023 05:46:14 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:46:14 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:0
+[01-Aug-2023 05:46:14 Europe/Berlin] PHP   2. header($header = 'Location: login.php') D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myGroceries.php:33
+[01-Aug-2023 05:46:42 Europe/Berlin] PHP Warning:  Undefined array key "keyword" in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Entity\Page.class.php on line 218
+[01-Aug-2023 05:46:42 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:46:42 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:0
+[01-Aug-2023 05:46:42 Europe/Berlin] PHP   2. Page::showRecipes($recipes = [0 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_2463f2482609d7a471dbbf3b268bd956'; private $label = 'Catalan Chicken'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/4d9/4d9084cbc170789caa9e997108b595de.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://www.bonappetit.com/columns/breadwinner/article/how-to-get-your-kids-to-eat-sauce-let-them-cook-it-themselves'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 3867.74 }, 1 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_5e7b278b580ccea8ab485607dff5416a'; private $label = 'Picadillo Tacos'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/274/274e308efd9040b2a6a6963864a7c215.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://honestcooking.com/picadillo-tacos-recipe/'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 1931.5037620854 }, 2 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_b79327d05b8e5b838ad6cfd9576b30b6'; private $label = 'Chicken Vesuvio'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/e42/e42f9119813e890af34c259785ae1cfb.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://www.seriouseats.com/recipes/2011/12/chicken-vesuvio-recipe.html'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 4228.0430582008 }], $recipesFromDb = [0 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_2463f2482609d7a471dbbf3b268bd956'; private $label = 'Catalan Chicken'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/4d9/4d9084cbc170789caa9e997108b595de.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://www.bonappetit.com/columns/breadwinner/article/how-to-get-your-kids-to-eat-sauce-let-them-cook-it-themselves'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 3867.74 }, 1 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_5e7b278b580ccea8ab485607dff5416a'; private $label = 'Picadillo Tacos'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/274/274e308efd9040b2a6a6963864a7c215.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://honestcooking.com/picadillo-tacos-recipe/'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 1931.5037620854 }, 2 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_b79327d05b8e5b838ad6cfd9576b30b6'; private $label = 'Chicken Vesuvio'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/e42/e42f9119813e890af34c259785ae1cfb.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://www.seriouseats.com/recipes/2011/12/chicken-vesuvio-recipe.html'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 4228.0430582008 }]) D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:34
+[01-Aug-2023 05:46:42 Europe/Berlin] PHP Warning:  Undefined array key "keyword" in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Entity\Page.class.php on line 218
+[01-Aug-2023 05:46:42 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:46:42 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:0
+[01-Aug-2023 05:46:42 Europe/Berlin] PHP   2. Page::showRecipes($recipes = [0 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_2463f2482609d7a471dbbf3b268bd956'; private $label = 'Catalan Chicken'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/4d9/4d9084cbc170789caa9e997108b595de.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://www.bonappetit.com/columns/breadwinner/article/how-to-get-your-kids-to-eat-sauce-let-them-cook-it-themselves'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 3867.74 }, 1 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_5e7b278b580ccea8ab485607dff5416a'; private $label = 'Picadillo Tacos'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/274/274e308efd9040b2a6a6963864a7c215.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://honestcooking.com/picadillo-tacos-recipe/'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 1931.5037620854 }, 2 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_b79327d05b8e5b838ad6cfd9576b30b6'; private $label = 'Chicken Vesuvio'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/e42/e42f9119813e890af34c259785ae1cfb.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://www.seriouseats.com/recipes/2011/12/chicken-vesuvio-recipe.html'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 4228.0430582008 }], $recipesFromDb = [0 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_2463f2482609d7a471dbbf3b268bd956'; private $label = 'Catalan Chicken'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/4d9/4d9084cbc170789caa9e997108b595de.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://www.bonappetit.com/columns/breadwinner/article/how-to-get-your-kids-to-eat-sauce-let-them-cook-it-themselves'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 3867.74 }, 1 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_5e7b278b580ccea8ab485607dff5416a'; private $label = 'Picadillo Tacos'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/274/274e308efd9040b2a6a6963864a7c215.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://honestcooking.com/picadillo-tacos-recipe/'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 1931.5037620854 }, 2 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_b79327d05b8e5b838ad6cfd9576b30b6'; private $label = 'Chicken Vesuvio'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/e42/e42f9119813e890af34c259785ae1cfb.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://www.seriouseats.com/recipes/2011/12/chicken-vesuvio-recipe.html'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 4228.0430582008 }]) D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:34
+[01-Aug-2023 05:46:42 Europe/Berlin] PHP Warning:  Undefined array key "keyword" in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Entity\Page.class.php on line 218
+[01-Aug-2023 05:46:42 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:46:42 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:0
+[01-Aug-2023 05:46:42 Europe/Berlin] PHP   2. Page::showRecipes($recipes = [0 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_2463f2482609d7a471dbbf3b268bd956'; private $label = 'Catalan Chicken'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/4d9/4d9084cbc170789caa9e997108b595de.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://www.bonappetit.com/columns/breadwinner/article/how-to-get-your-kids-to-eat-sauce-let-them-cook-it-themselves'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 3867.74 }, 1 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_5e7b278b580ccea8ab485607dff5416a'; private $label = 'Picadillo Tacos'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/274/274e308efd9040b2a6a6963864a7c215.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://honestcooking.com/picadillo-tacos-recipe/'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 1931.5037620854 }, 2 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_b79327d05b8e5b838ad6cfd9576b30b6'; private $label = 'Chicken Vesuvio'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/e42/e42f9119813e890af34c259785ae1cfb.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://www.seriouseats.com/recipes/2011/12/chicken-vesuvio-recipe.html'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 4228.0430582008 }], $recipesFromDb = [0 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_2463f2482609d7a471dbbf3b268bd956'; private $label = 'Catalan Chicken'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/4d9/4d9084cbc170789caa9e997108b595de.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://www.bonappetit.com/columns/breadwinner/article/how-to-get-your-kids-to-eat-sauce-let-them-cook-it-themselves'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 3867.74 }, 1 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_5e7b278b580ccea8ab485607dff5416a'; private $label = 'Picadillo Tacos'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/274/274e308efd9040b2a6a6963864a7c215.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://honestcooking.com/picadillo-tacos-recipe/'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 1931.5037620854 }, 2 => class Recipe { private $uri = 'http://www.edamam.com/ontologies/edamam.owl#recipe_b79327d05b8e5b838ad6cfd9576b30b6'; private $label = 'Chicken Vesuvio'; private $image = 'https://edamam-product-images.s3.amazonaws.com/web-img/e42/e42f9119813e890af34c259785ae1cfb.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLWVhc3QtMSJGMEQCIB5UXixO%2FnWCI8VUf0kiMohZO55tPXMyk972NJq8OwtfAiABhyzBH5iaQVKSxwvAupflQ1aPC%2FvTcj72wKqg5rZXfSrCBQjM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDE4NzAxNzE1MDk4NiIMbUVy8ORQM5pHTBQVKpYF7ztuX9BUe0NuiYfrd%2BHCxEAV%2BAvGTtjuQmf66a%2BXA7q9De2ZZS3fciXDpxkOevvuaBQK8htJNw15keLWsbTwehtyc4okRYvENBFHp9jI9FdIsdNFwXYY70DnZlRPzpy6iK8MtgwvT2D7xOKXUxO8BxJJpg4HfcHqSjyEG%2F%2BGA'...; private $url = 'http://www.seriouseats.com/recipes/2011/12/chicken-vesuvio-recipe.html'; private $ingredient_lines = [...]; private $ingredients = [...]; private $calories = 4228.0430582008 }]) D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:34
+[01-Aug-2023 05:53:17 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php on line 6
+[01-Aug-2023 05:53:17 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:53:17 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:0
+[01-Aug-2023 05:53:17 Europe/Berlin] PHP   2. LoginManager::verifyLogin() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:41
+[01-Aug-2023 05:53:17 Europe/Berlin] PHP   3. session_start() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php:6
+[01-Aug-2023 05:53:17 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php on line 14
+[01-Aug-2023 05:53:17 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:53:17 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:0
+[01-Aug-2023 05:53:17 Europe/Berlin] PHP   2. LoginManager::verifyLogin() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:41
+[01-Aug-2023 05:53:17 Europe/Berlin] PHP   3. session_destroy() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php:14
+[01-Aug-2023 05:53:17 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:21) in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php on line 55
+[01-Aug-2023 05:53:17 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:53:17 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:0
+[01-Aug-2023 05:53:17 Europe/Berlin] PHP   2. header($header = 'Location: login.php') D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:55
+[01-Aug-2023 05:54:15 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php on line 6
+[01-Aug-2023 05:54:15 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:54:15 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:0
+[01-Aug-2023 05:54:15 Europe/Berlin] PHP   2. LoginManager::verifyLogin() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:41
+[01-Aug-2023 05:54:15 Europe/Berlin] PHP   3. session_start() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php:6
+[01-Aug-2023 05:54:15 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php on line 14
+[01-Aug-2023 05:54:15 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:54:15 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:0
+[01-Aug-2023 05:54:15 Europe/Berlin] PHP   2. LoginManager::verifyLogin() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:41
+[01-Aug-2023 05:54:15 Europe/Berlin] PHP   3. session_destroy() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php:14
+[01-Aug-2023 05:54:15 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:21) in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php on line 55
+[01-Aug-2023 05:54:15 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:54:15 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:0
+[01-Aug-2023 05:54:15 Europe/Berlin] PHP   2. header($header = 'Location: login.php') D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:55
+[01-Aug-2023 05:54:29 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php on line 6
+[01-Aug-2023 05:54:29 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:54:29 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:0
+[01-Aug-2023 05:54:29 Europe/Berlin] PHP   2. LoginManager::verifyLogin() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:41
+[01-Aug-2023 05:54:29 Europe/Berlin] PHP   3. session_start() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php:6
+[01-Aug-2023 05:54:29 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php on line 14
+[01-Aug-2023 05:54:29 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:54:29 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:0
+[01-Aug-2023 05:54:29 Europe/Berlin] PHP   2. LoginManager::verifyLogin() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:41
+[01-Aug-2023 05:54:29 Europe/Berlin] PHP   3. session_destroy() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\inc\Utility\LoginManager.class.php:14
+[01-Aug-2023 05:54:29 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:21) in D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php on line 55
+[01-Aug-2023 05:54:29 Europe/Berlin] PHP Stack trace:
+[01-Aug-2023 05:54:29 Europe/Berlin] PHP   1. {main}() D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:0
+[01-Aug-2023 05:54:29 Europe/Berlin] PHP   2. header($header = 'Location: login.php') D:\Workspace\Education\CSIS3280TermProject\ProjectSrc\myRecipes.php:55

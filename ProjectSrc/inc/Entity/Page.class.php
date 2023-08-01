@@ -205,20 +205,56 @@ class Page  {
                                 echo '<input type="hidden" name="image" value="'.$recipe->getImage().'">';
                                 echo '<input type="hidden" name="url" value="'.$recipe->getUrl().'">';
                                 echo '<input type="hidden" name="calories" value="<'.$recipe->getCalories().'">';
-                                echo '<input type="hidden" name="keyword" value="'.$_POST['keyword'].'">';                            
+                                if(isset($_POST['keyword'])) echo '<input type="hidden" name="keyword" value="'.$_POST['keyword'].'">';                            
                                 echo '</FORM>';
                             }
-                            echo '<FORM class="btn-block" ACTION="" METHOD="POST">';
-                            echo '<input type="submit" name="addToGrocery" class="btn btn-secondary btn-block" value="Add to grocery list">';
-                            echo '<input type="hidden" name="uri" value="'.$recipe->getUri().'">';
-                            echo '</FORM>';
                             ?>
-                            
                         </div>
+                        <?php                        
+                        echo '<div class="row p-2">';
+                        echo '<FORM class="btn-block" ACTION="" METHOD="POST">';
+                        echo '<input type="submit" name="addToGrocery" class="btn btn-primary btn-block" value="Add to grocery list">';
+                        echo '<input type="hidden" name="uri" value="'.$recipe->getUri().'">';
+                        if(isset($_POST['keyword'])) echo '<input type="hidden" name="keyword" value="'.$_POST['keyword'].'">';   
+                        echo '</FORM>';
+                        echo '</div>';
+                        ?>
                     </div>
                 </div>
             <?php
         echo "</div>";
         }
+    }
+
+    static function showGroceries($groceries){
+        //html for display a list of grocery
+        //each row show quantity, measure and food name with a delete button
+        ?>
+        <div class="container p-4 m-4 bg-info rounded">
+            <?php
+            foreach ($groceries as $grocery) {
+            echo '<div class="row container pb-4">';
+            echo '<div class="col-md-10 text-white">';
+            //Some food doesn't have quantity and measurement
+            if($grocery->getQuantity() == 0) {
+                echo "<p>". $grocery->GetFood() ."</p>";                
+            } else {
+                //Display the full ingredient line
+                echo "<p>". $grocery->getQuantity()." ". $grocery->GetMeasure()." of ". $grocery->GetFood() ."</p>";
+            }
+            echo '</div>';
+            echo '<div class="col-md-2">';
+            echo '<FORM class="btn-block" ACTION="" METHOD="POST">';
+            echo '<input type="submit" name="deleteGrocery" class="btn btn-danger btn-block" value="Remove">';
+            echo '<input type="hidden" name="foodId" value="'.$grocery->getFoodId().'">';
+            echo '</FORM>';
+            echo '</div>';
+            echo '</div>';
+            }
+
+            ?>
+        </div>
+        <?php
+        
     }
 }
